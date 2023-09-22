@@ -1,0 +1,16 @@
+{
+    "name": "mtyuryaev/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MTyuryaev\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MTyuryaev",
+            "email": "mtyarev@cmd.su"
+        }
+    ],
+    "require": {}
+}
