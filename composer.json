@@ -12,5 +12,7 @@
             "email": "mtyarev@cmd.su"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
